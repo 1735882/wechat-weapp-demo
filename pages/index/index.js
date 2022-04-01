@@ -23,7 +23,7 @@ Page({
         isSplot:true
       },
       {
-        name:'自带',
+        name:'外带',
         url:'out'
       },
       {
